@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xxxX4v13rxxx
 - 👀 I’m interested in anime
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on anything that interest me
 - 😄 Pronouns: he/him
 
